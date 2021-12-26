@@ -8,6 +8,6 @@
 <li>extract_sdfscore2csv.py</li>
 <p>Group together of a molecule with the same title stored in SDF, based on a aggregate functions such as max and min.</p>
 <pre line="1" lang="python">
->extract_sdfscore2csv.py actives_final_dock_label.sdf  Chemgauss4 min
+>extract_sdfscore2csv.py actives_final_dock_label.sdf  actives_score.csv Chemgauss4 min
 </pre>
 </ol>
