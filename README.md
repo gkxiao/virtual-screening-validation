@@ -20,6 +20,6 @@ CHEMBL383300 (3)
 </pre>
 <p>sed command is good to do it:</p>
 <pre line="1" lang="python">
-sed sed s/\ \([0-9]*\)//g foo.sdf >> oof.sdf
+>sed sed s/\ \([0-9]*\)//g foo.sdf >> oof.sdf
 </pre>
 </ol>
