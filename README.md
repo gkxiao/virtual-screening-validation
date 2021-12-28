@@ -1,3 +1,6 @@
+<h2>DUDE+</h2>
+<p>Source: Cleves, A. E.; Jain, A. N. Structure- and Ligand-Based Virtual Screening on DUD-E + : Performance Dependence on Approximations to the Binding Pocket. J. Chem. Inf. Model. 2020, 0 (0), acs.jcim.0c00115. https://doi.org/10.1021/acs.jcim.0c00115.</p>
+<p>Download: https://www.jainlab.org/downloads/</p>
 <h2>Tools</h2>
 <ol>
 <li>Add Title and label tags to the SDF file.</li>
