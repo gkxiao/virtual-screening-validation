@@ -8,8 +8,8 @@
 <pre line="1" lang="python">
 >extract_sdfscore2csv.py actives_final_dock_label.sdf  actives_score.csv Chemgauss4 min
 </pre>
-<li>Remove the brackets in the molecules titles </li>
-<p>Some duplicated molecules has brackets in the title tag, remove it before group molecules with aggregation funtions.</p>
+<li>Remove the brackets in the title tag</li>
+<p>Some duplicated molecules has brackets in the title tag, remove it before grouping molecules with aggregation funtion.</p>
 <pre line="1" lang="python">
 CHEMBL162 (1)
 CHEMBL471526 (1)
