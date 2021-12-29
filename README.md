@@ -4,7 +4,7 @@
 <h2>Tools</h2>
 <ol>
 <li>Remove the brackets in the title tag</li>
-<p>The duplicated molecules has brackets in the title tag, remove it before grouping molecules with aggregation funtion.</p>
+<p>The duplicated molecules has brackets in the SDF title tag. We need to remove it before grouping molecules with aggregation funtion.</p>
 <pre line="1" lang="python">
 CHEMBL162 (1)
 CHEMBL471526 (1)
