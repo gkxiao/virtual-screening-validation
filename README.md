@@ -4,7 +4,7 @@
 <p>Benchmark: DUDE;</p>
 <p>Metric: BEDROC (alpha=80.5);</p>
 <p>Software: GOLD，Glide, Surflex，FlexX</p>  
-<li>Cleves2020.csv</li>
+<li>Cleves2020.csv<sup>[2]</sup></li>
 <p>Benchmark: DUDE plus;</p>
 <p>Metric: ROC AUC and ER at 1%;</p>
 <p>Software: Dock, Glide, Surflex</p>  
