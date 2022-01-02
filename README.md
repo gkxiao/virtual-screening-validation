@@ -1,3 +1,11 @@
+<h2>Performance summary</h2>
+<ol>
+<li>BEDROC at 80.5<sup>1</sup></li>
+<p>Benchmark:DUDE;</p>
+<p>Metric: BEDROC (alpha=80.5);</p>
+<p>Software: GOLD，Glide, Surflex，FlexX</p>  
+<li></li>
+</ol>
 <h2>Reference</h2>
 <ol>
 <li>Chaput, L.; Martinez-Sanz, J.; Saettel, N.; Mouawad, L. Benchmark of Four Popular Virtual Screening Programs: Construction of the Active/Decoy Dataset Remains a Major Determinant of Measured Performance. J. Cheminform. 2016, 8 (1), 56. https://doi.org/10.1186/s13321-016-0167-x.</li>
