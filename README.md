@@ -1,10 +1,13 @@
 <h2>Performance summary</h2>
 <ol>
-<li>BEDROC at 80.5<sup>1</sup></li>
-<p>Benchmark:DUDE;</p>
+<li>Chaput2016.csv<sup>[1]</sup></li>
+<p>Benchmark: DUDE;</p>
 <p>Metric: BEDROC (alpha=80.5);</p>
 <p>Software: GOLD，Glide, Surflex，FlexX</p>  
-<li></li>
+<li>Cleves2020.csv</li>
+<p>Benchmark: DUDE plus;</p>
+<p>Metric: ROC AUC and ER at 1%;</p>
+<p>Software: Dock, Glide, Surflex</p>  
 </ol>
 <h2>Reference</h2>
 <ol>
