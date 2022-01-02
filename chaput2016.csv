@@ -1,0 +1,105 @@
+﻿Target,Family,GOLD BEDROC,GLIDE BEDROC,SURFLEX BEDROC,FLEXX BEDROC
+aa2ar,GPCR,0.29,0.13,0.34,0.17
+abl1,Protein kinases,0.48,0.32,0.35,0.51
+ace,Miscellaneous,0.3,0.1,0.09,0.03
+aces,Miscellaneous,0.37,0.16,0.12,0.03
+ada,Miscellaneous,0.32,0.12,0.19,0.18
+ada17,Miscellaneous,0.35,0.46,0.56,0.05
+adrb1,GPCR,0.43,0.31,0.25,0.18
+adrb2,GPCR,0.43,0.5,0.41,0.36
+akt1,Protein kinases,0.42,0.24,0.05,0.11
+akt2,Protein kinases,0.62,0.41,0.24,0.27
+aldr,Miscellaneous,0.4,0.39,0.14,0.21
+ampc,Miscellaneous,0.04,0.09,0,0.04
+andr,Nuclear receptors,0.04,0.37,0.08,0.01
+aofb,Miscellaneous,0.29,0.15,0.15,0.1
+bace1,Cleaving enzymes,0.43,0.26,0.27,0.19
+braf,Protein kinases,0.43,0.56,0.15,0.51
+cah2,Miscellaneous,0.29,0.08,0.04,0.17
+casp3,Miscellaneous,0.53,0.56,0.37,0.49
+cdk2,Protein kinases,0.3,0.47,0.07,0.24
+comt,Miscellaneous,0.68,0.71,0.05,0.17
+cp2c9,CYP450,0.12,0.04,0.05,0.19
+cp3a4,CYP450,0.21,0.17,0.13,0.08
+csf1r,Protein kinases,0.36,0.32,0.05,0.45
+cxcr4,GPCR,0.08,0.01,0.27,0.01
+def,Miscellaneous,0.49,0.18,0.62,0.01
+dhi1,Miscellaneous,0.17,0.15,0.13,0.02
+dpp4,Miscellaneous,0.29,0.18,0.09,0.21
+drd3,GPCR,0.18,0.04,0.15,0.06
+dyr,Miscellaneous,0.66,0.4,0.41,0.2
+egfr,Protein kinases,0.42,0.4,0.24,0.35
+esr1,Nuclear receptors,0.41,0.79,0.45,0.5
+esr2,Nuclear receptors,0.32,0.75,0.43,0.51
+fa10,Proteases,0.74,0.31,0.31,0.74
+fa7,Proteases,0.8,0.73,0.79,0.92
+fabp4,Miscellaneous,0.62,0.45,0.12,0.37
+fak1,Protein kinases,0.51,0.34,0.12,0.31
+fgfr1,Protein kinases,0.8,0.26,0.3,0.31
+fkb1a,Miscellaneous,0.23,0.62,0.22,0.01
+fnta,Miscellaneous,0.3,0.11,0.05,0.12
+fpps,Miscellaneous,0.96,0.01,0.04,0.08
+gcr,Nuclear receptors,0.13,0.21,0.3,0.18
+glcm,Miscellaneous,0.89,0.48,0.93,0.22
+gria2,Ion channels,0.24,0.44,0.13,0.12
+grik1,Ion channels,0.42,0.31,0.19,0.36
+hdac2,Histone deacetylases,0.31,0.17,0.25,0.3
+hdac8,Histone deacetylases,0.2,0.09,0.08,0.27
+hivint,Miscellaneous,0.19,0.03,0.22,0.05
+hivpr,Miscellaneous,0.3,0.14,0.1,0.05
+hivrt,Miscellaneous,0.42,0.37,0.13,0.19
+hmdh,Miscellaneous,0.4,0.66,0.38,0.04
+hs90a,Miscellaneous,0.23,0.03,0.02,0.03
+hxk4,Miscellaneous,0.3,0.34,0.04,0.08
+igf1r,Protein kinases,0.49,0.52,0.2,0.49
+inha,Miscellaneous,0.51,0.27,0.21,0.18
+ital,Miscellaneous,0.12,0.1,0.02,0.03
+jak2,Protein kinases,0.5,0.41,0.17,0.19
+kif11,Miscellaneous,0.55,0.59,0.12,0.08
+kit,Protein kinases,0.24,0.12,0.05,0.17
+kith,Miscellaneous,0.26,0.75,0.6,0.07
+kpcb,Protein kinases,0.49,0.6,0.43,0.45
+lck,Protein kinases,0.26,0.41,0.19,0.39
+lkha4,Miscellaneous,0.29,0.54,0.47,0.16
+mapk2,Protein kinases,0.4,0.45,0.04,0.2
+mcr,Nuclear receptors,0.04,0.3,0.06,0.01
+met,Protein kinases,0.64,0.44,0.17,0.35
+mk01,Protein kinases,0.46,0.26,0.03,0.39
+mk10,Protein kinases,0.39,0.28,0.03,0.29
+mk14,Protein kinases,0.24,0.34,0.06,0.29
+mmp13,Miscellaneous,0.4,0.33,0.3,0.09
+mp2k1,Protein kinases,0.39,0.23,0.03,0.16
+nos1,Miscellaneous,0.4,0.16,0.35,0.14
+nram,Miscellaneous,0.34,0.69,0.42,0.28
+pa2ga,Miscellaneous,0.32,0.58,0.09,0.3
+parp1,Miscellaneous,0.24,0.65,0.34,0.28
+pde5a,Miscellaneous,0.16,0.3,0.19,0.05
+pgh1,Cyclooxygenases,0.22,0.24,0.14,0.09
+pgh2,Cyclooxygenases,0.32,0.48,0.27,0.21
+plk1,Protein kinases,0.48,0.53,0.11,0.23
+pnph,Miscellaneous,0.45,0.15,0.22,0.21
+ppara,Nuclear receptors,0.32,0.19,0.37,0.09
+ppard,Nuclear receptors,0.23,0.11,0.16,0.04
+pparg,Nuclear receptors,0.32,0.15,0.12,0.04
+prgr,Nuclear receptors,0.07,0.05,0.07,0.1
+ptn1,Miscellaneous,0.78,0.32,0.36,0.32
+pur2,Miscellaneous,0.97,1,0.98,0.99
+pygm,Miscellaneous,0.17,0.02,0.03,0.12
+pyrd,Miscellaneous,0.5,0.57,0.27,0.48
+reni,Cleaving enzymes,0.44,0.53,0.46,0.18
+rock1,Protein kinases,0.2,0.4,0.05,0.35
+rxra,Nuclear receptors,0.53,0.79,0.54,0.27
+sahh,Miscellaneous,0.73,0.99,0.97,0.8
+src,Protein kinases,0.24,0.24,0.12,0.3
+tgfr1,Protein kinases,0.59,0.66,0.28,0.44
+thb,Nuclear receptors,0.54,0.54,0.29,0.26
+thrb,Proteases,0.54,0.66,0.58,0.62
+try1,Proteases,0.65,0.67,0.75,0.8
+tryb1,Proteases,0.6,0.47,0.44,0.5
+tysy,Miscellaneous,0.76,0.65,0.46,0.32
+urok,Proteases,0.66,0.85,0.29,0.77
+vgfr2,protein kinases,0.36,0.26,0.07,0.52
+wee1,Protein kinases,0.92,0.99,0.82,0.72
+xiap,Miscellaneous,0.49,0.8,0.45,0.57
+Mean,,0.41,0.38,0.25,0.26
+Median,,0.4,0.34,0.19,0.21
