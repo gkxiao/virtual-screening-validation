@@ -22,6 +22,7 @@
 <li>Mysinger, M. M.; Carchia, M.; Irwin, J. J.; Shoichet, B. K. Directory of Useful Decoys, Enhanced (DUD-E): Better Ligands and Decoys for Better Benchmarking. J. Med. Chem. 2012, 55 (14), 6582–6594. https://doi.org/10.1021/jm300687e.</li>
 <li>Giangreco, I.; Mukhopadhyay, A.; C. Cole, J. Validation of a Field-Based Ligand Screener Using a Novel Benchmarking Data Set for Assessing 3D-Based Virtual Screening Methods. J. Chem. Inf. Model. 2021, 61 (12), 5841–5852. https://doi.org/10.1021/acs.jcim.1c00866.</li>
 <li>Wang, D.; Cui, C.; Ding, X.; Xiong, Z.; Zheng, M.; Luo, X.; Jiang, H.; Chen, K. Improving the Virtual Screening Ability of Target-Specific Scoring Functions Using Deep Learning Methods. 2019, 10 (August), 1–11. https://doi.org/10.3389/fphar.2019.00924.</li>
+<li>Scoring - Calculate rank statistics. http://www.rdkit.org/docs/source/rdkit.ML.Scoring.Scoring.html</li>
 </ol>
 <h2>Tools</h2>
 <ol>
