@@ -16,6 +16,10 @@
 <p>Data set: DUDE;</p>
 <p>Metric: ROC AUC,BEDROC (alpha=80.5);</p>
 <p>Software: GLIDE</p>
+<li>Mysinger2012.csv<sup>[4]</sup></li>
+<p>Data set: DUDE;</p>
+<p>Metric: ROC AUC, logAUC, EF at 1%;</p>
+<p>Software: DOCK</p>
 </ol>
 
 <h2>Tools</h2>
