@@ -12,14 +12,14 @@
 <p>Data set: DUDE;</p>
 <p>Metric: ROC AUC,BEDROC (alpha=20),EF at 1%, 5% and 10%;</p>
 <p>Software: AutoDock 1.2</p>
-<li>Wang2019.csv<sup>[6]</sup></li>
-<p>Data set: DUDE;</p>
-<p>Metric: ROC AUC,BEDROC (alpha=80.5);</p>
-<p>Software: GLIDE</p>
 <li>Mysinger2012.csv<sup>[4]</sup></li>
 <p>Data set: DUDE;</p>
 <p>Metric: ROC AUC, logAUC, EF at 1%;</p>
 <p>Software: DOCK</p>
+<li>Wang2019.csv<sup>[6]</sup></li>
+<p>Data set: DUDE;</p>
+<p>Metric: ROC AUC,BEDROC (alpha=80.5);</p>
+<p>Software: GLIDE</p>
 </ol>
 
 <h2>Tools</h2>
