@@ -47,7 +47,7 @@ CHEMBL383300 (3)
 >extract_sdfscore2csv.py actives_final_dock_label.sdf  actives_score.csv Chemgauss4 min
 </pre>
 <li>Metrics:ROC AUC, BEDAUC, enrichment_factor(EF), and logAUC</li>
-<p>metrics.py stolen from <a href="https://github.com/oddt/oddt">oddt</a> can be used to calculate metrics.</p>
+<p>metrics.py stolen from <a href="https://github.com/oddt/oddt">oddt</a>.</p>
 </ol>
 
 <h2>Reference</h2>
