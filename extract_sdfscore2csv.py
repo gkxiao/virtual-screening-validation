@@ -23,9 +23,6 @@ if not os.path.exists(sdf_file):
    print("Sorry, Cannot find the %s file" % sdf_file)
    sys.exit()
 
-df = PandasTools.LoadSDF(sdf_file,smilesName='SMILES',molColName='Molecule',
-           includeFingerprints=True)
-
 ofile = sys.argv[2]
 
 score_head = sys.argv[3]
