@@ -1,4 +1,4 @@
-target,ROCAUC,BEDROC ¦Á=80.5
+target,ROCAUC,BEDROC alpha=80.5
 aa2ar,0.87 ,0.35 
 abl1,0.79 ,0.35 
 ace,0.84 ,0.29 
