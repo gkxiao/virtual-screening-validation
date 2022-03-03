@@ -49,7 +49,7 @@ CHEMBL383300 (3)
 <li>Metrics:ROC AUC, BEDAUC, enrichment_factor(EF), and logAUC</li>
 <p>metrics.py stolen from <a href="https://github.com/oddt/oddt">oddt</a>.</p>
 
-<li>ROCKER: ROC and semi-log ROC curve visualization</sup>[9]</sup></li>
+<li>ROCKER: ROC and semi-log ROC curve visualization<sup>[9]</sup></li>
   
 </ol>
 
