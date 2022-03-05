@@ -69,5 +69,6 @@ CHEMBL383300 (3)
 <li>Wang, D.; Cui, C.; Ding, X.; Xiong, Z.; Zheng, M.; Luo, X.; Jiang, H.; Chen, K. Improving the Virtual Screening Ability of Target-Specific Scoring Functions Using Deep Learning Methods. 2019, 10 (August), 1–11. https://doi.org/10.3389/fphar.2019.00924.</li>
 <li>Imrie, F.; Bradley, A. R.; Van Der Schaar, M.; Deane, C. M. Protein Family-Specific Models Using Deep Neural Networks and Transfer Learning Improve Virtual Screening and Highlight the Need for More Data. J. Chem. Inf. Model. 2018, 58 (11), 2319–2330. https://doi.org/10.1021/acs.jcim.8b00350.</li>  
 <li>Scoring - Calculate rank statistics. http://www.rdkit.org/docs/source/rdkit.ML.Scoring.Scoring.html</li>
-<li>Lätti, S.; Niinivehmas, S.; Pentikäinen, O. T. Rocker: Open Source, Easy-to-Use Tool for AUC and Enrichment Calculations and ROC Visualization. J. Cheminform. 2016, 8 (1), 45. https://doi.org/10.1186/s13321-016-0158-y.</li>  
+<li>Lätti, S.; Niinivehmas, S.; Pentikäinen, O. T. Rocker: Open Source, Easy-to-Use Tool for AUC and Enrichment Calculations and ROC Visualization. J. Cheminform. 2016, 8 (1), 45. https://doi.org/10.1186/s13321-016-0158-y.</li>
+<li>Jiang, S.; Feher, M.; Williams, C.; Cole, B.; Shaw, D. E. AutoPH4: An Automated Method for Generating Pharmacophore Models from Protein Binding Pockets. J. Chem. Inf. Model. 2020, 60 (9), 4326–4338. https://doi.org/10.1021/acs.jcim.0c00121.</li>
 </ol>
