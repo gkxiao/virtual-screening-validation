@@ -20,6 +20,11 @@
 <p>Data set: DUDE;</p>
 <p>Metric: ROC AUC,BEDROC (alpha=80.5);</p>
 <p>Software: GLIDE</p>
+
+<li>Jiang2020.xlsx<sup>[10]</sup></li>
+<p>Data set: DUDE;</p>
+<p>Metric: ROC AUC, BEDROC (alpha=20.0,80.5,321.0), EF at 0.5%, 1%, 2%, 8%, 20%;</p>
+<p>Software: AutoPH4</p>
 </ol>
 
 <h2>Tools</h2>
