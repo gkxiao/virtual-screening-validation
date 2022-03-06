@@ -25,6 +25,11 @@
 <p>Data set: DUDE;</p>
 <p>Metric: ROC AUC, BEDROC (alpha=20.0,80.5,321.0), EF at 0.5%, 1%, 2%, 8%, 20%;</p>
 <p>Software: AutoPH4</p>
+
+<li>Cleves2019.csv<sup>[12]</sup></li>
+<p>Data set: DUDE;</p>
+<p>Metric: ROC AUC;</p>
+<p>Software: Surflex eSim</p>  
 </ol>
 
 <h2>Tools</h2>
@@ -72,4 +77,5 @@ CHEMBL383300 (3)
 <li>Lätti, S.; Niinivehmas, S.; Pentikäinen, O. T. Rocker: Open Source, Easy-to-Use Tool for AUC and Enrichment Calculations and ROC Visualization. J. Cheminform. 2016, 8 (1), 45. https://doi.org/10.1186/s13321-016-0158-y.</li>
 <li>Jiang, S.; Feher, M.; Williams, C.; Cole, B.; Shaw, D. E. AutoPH4: An Automated Method for Generating Pharmacophore Models from Protein Binding Pockets. J. Chem. Inf. Model. 2020, 60 (9), 4326–4338. https://doi.org/10.1021/acs.jcim.0c00121.</li>
 <li>Stein, R. M.; Yang, Y.; Balius, T. E.; O’Meara, M. J.; Lyu, J.; Young, J.; Tang, K.; Shoichet, B. K.; Irwin, J. J. Property-Unmatched Decoys in Docking Benchmarks. J. Chem. Inf. Model. 2021, 61 (2), 699–714. https://doi.org/10.1021/acs.jcim.0c00598.</li>
+<li>Cleves, A. E.; Johnson, S. R.; Jain, A. N. Electrostatic-Field and Surface-Shape Similarity for Virtual Screening and Pose Prediction. J. Comput. Aided. Mol. Des. 2019, 33 (10), 865–886. https://doi.org/10.1007/s10822-019-00236-6.</li>  
 </ol>
