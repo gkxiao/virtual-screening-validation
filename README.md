@@ -60,7 +60,9 @@ CHEMBL383300 (3)
 <p>metrics.py stolen from <a href="https://github.com/oddt/oddt">oddt</a>.</p>
 
 <li>ROCKER: ROC and semi-log ROC curve visualization<sup>[9]</sup></li>
-  
+
+<li>bootstrap_tldr.py: ROC and semi-log ROC curve visualization<sup>[11]</sup></li>
+
 </ol>
 
 <h2>Reference</h2>
