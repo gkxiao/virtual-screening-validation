@@ -1,4 +1,4 @@
-<h2>Performance summary</h2>
+<h2>Performance</h2>
 <ol>
 <li>Chaput2016.csv<sup>[1]</sup></li>
 <p>Data set: DUDE;</p>
