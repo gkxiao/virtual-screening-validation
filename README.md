@@ -56,7 +56,7 @@ CHEMBL383300 (3)
 <pre line="1" lang="python">
 >extract_sdfscore2csv.py actives_final_dock_label.sdf  actives_score.csv Chemgauss4 min
 </pre>
-<li>Metrics:ROC AUC, BEDAUC, enrichment_factor(EF), and logAUC</li>
+<li>metrics.py: ROC AUC, BEDAUC, enrichment_factor(EF) and logAUC</li>
 <p>metrics.py stolen from <a href="https://github.com/oddt/oddt">oddt</a>.</p>
 
 <li>ROCKER: ROC and semi-log ROC curve visualization<sup>[9]</sup></li>
