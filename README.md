@@ -6,7 +6,7 @@
 <p>Software: GOLD，Glide, Surflex，FlexX</p>  
 <li>Cleves2020.csv<sup>[2]</sup></li>
 <p>Data set: DUDE plus;</p>
-<p>Metric: ROC AUC and ER at 1%.</p>
+<p>Metric: ROC AUC and ER 1%.</p>
 <p>Software: Dock, Glide, Surflex</p>
 <li>Eberhardt2021.csv<sup>[3]</sup></li>
 <p>Data set: DUDE;</p>
