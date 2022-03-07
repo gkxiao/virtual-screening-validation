@@ -30,7 +30,6 @@
 <p>Data set: DUDE</p>
 <p>Metric: ROC AUC</p>
 <p>Software: Surflex eSim</p>  
-</ol>
 
 <li>Koes2014.csv<sup>[13]</sup></li>
 <p>Data set: DUDE</p>
