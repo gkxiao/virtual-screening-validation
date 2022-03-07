@@ -1,35 +1,41 @@
 <h2>Performance</h2>
 <ol>
 <li>Chaput2016.csv<sup>[1]</sup></li>
-<p>Data set: DUDE;</p>
-<p>Metric: BEDROC (alpha=80.5);</p>
-<p>Software: GOLD，Glide, Surflex，FlexX</p>  
+<p>Data set: DUDE</p>
+<p>Metric: BEDROC (alpha=80.5)</p>
+<p>Software: GOLD，Glide, Surflex and FlexX</p>  
 <li>Cleves2020.csv<sup>[2]</sup></li>
-<p>Data set: DUDE plus;</p>
-<p>Metric: ROC AUC and ER 1%.</p>
-<p>Software: Dock, Glide, Surflex</p>
+<p>Data set: DUDE+</p>
+<p>Metric: ROC AUC and ER 1%</p>
+<p>Software: Dock, Glide and Surflex</p>
 <li>Eberhardt2021.csv<sup>[3]</sup></li>
-<p>Data set: DUDE;</p>
-<p>Metric: ROC AUC,BEDROC (alpha=20),EF at 1%, 5% and 10%;</p>
+<p>Data set: DUDE</p>
+<p>Metric: ROC AUC, BEDROC (alpha=20), EF at 1%, 5% and 10%</p>
 <p>Software: AutoDock 1.2</p>
 <li>Mysinger2012.csv<sup>[4]</sup></li>
-<p>Data set: DUDE;</p>
-<p>Metric: ROC AUC, logAUC, EF at 1%;</p>
+<p>Data set: DUDE</p>
+<p>Metric: ROC AUC, logAUC and EF at 1%</p>
 <p>Software: DOCK</p>
 <li>Wang2019.csv<sup>[6]</sup></li>
-<p>Data set: DUDE;</p>
-<p>Metric: ROC AUC,BEDROC (alpha=80.5);</p>
+<p>Data set: DUDE</p>
+<p>Metric: ROC AUC and BEDROC (alpha=80.5)</p>
 <p>Software: GLIDE</p>
 
 <li>Jiang2020.xlsx<sup>[10]</sup></li>
-<p>Data set: DUDE;</p>
-<p>Metric: ROC AUC, BEDROC (alpha=20.0,80.5,321.0), EF at 0.5%, 1%, 2%, 8%, 20%;</p>
+<p>Data set: DUDE</p>
+<p>Metric: ROC AUC, BEDROC (alpha=20.0,80.5,321.0) and EF at 0.5%, 1%, 2%, 8%, 20%</p>
 <p>Software: AutoPH4</p>
 
 <li>Cleves2019.csv<sup>[12]</sup></li>
-<p>Data set: DUDE;</p>
-<p>Metric: ROC AUC;</p>
+<p>Data set: DUDE</p>
+<p>Metric: ROC AUC</p>
 <p>Software: Surflex eSim</p>  
+</ol>
+
+<li>Koes2014.csv<sup>[13]</sup></li>
+<p>Data set: DUDE</p>
+<p>Metric: ROC AUC and BEDROC</p>
+<p>Software: USR, ROCS and VAMS</p>  
 </ol>
 
 <h2>Tools</h2>
@@ -79,5 +85,6 @@ CHEMBL383300 (3)
 <li>Lätti, S.; Niinivehmas, S.; Pentikäinen, O. T. Rocker: Open Source, Easy-to-Use Tool for AUC and Enrichment Calculations and ROC Visualization. J. Cheminform. 2016, 8 (1), 45. https://doi.org/10.1186/s13321-016-0158-y.</li>
 <li>Jiang, S.; Feher, M.; Williams, C.; Cole, B.; Shaw, D. E. AutoPH4: An Automated Method for Generating Pharmacophore Models from Protein Binding Pockets. J. Chem. Inf. Model. 2020, 60 (9), 4326–4338. https://doi.org/10.1021/acs.jcim.0c00121.</li>
 <li>Stein, R. M.; Yang, Y.; Balius, T. E.; O’Meara, M. J.; Lyu, J.; Young, J.; Tang, K.; Shoichet, B. K.; Irwin, J. J. Property-Unmatched Decoys in Docking Benchmarks. J. Chem. Inf. Model. 2021, 61 (2), 699–714. https://doi.org/10.1021/acs.jcim.0c00598.</li>
-<li>Cleves, A. E.; Johnson, S. R.; Jain, A. N. Electrostatic-Field and Surface-Shape Similarity for Virtual Screening and Pose Prediction. J. Comput. Aided. Mol. Des. 2019, 33 (10), 865–886. https://doi.org/10.1007/s10822-019-00236-6.</li>  
+<li>Cleves, A. E.; Johnson, S. R.; Jain, A. N. Electrostatic-Field and Surface-Shape Similarity for Virtual Screening and Pose Prediction. J. Comput. Aided. Mol. Des. 2019, 33 (10), 865–886. https://doi.org/10.1007/s10822-019-00236-6.</li>
+<li>Koes, D. R.; Camacho, C. J. Shape-Based Virtual Screening with Volumetric Aligned Molecular Shapes. J. Comput. Chem. 2014, 35 (25), 1824–1834. https://doi.org/10.1002/jcc.23690.</li>
 </ol>
