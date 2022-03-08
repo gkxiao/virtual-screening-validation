@@ -34,7 +34,13 @@
 <li>Koes2014.csv<sup>[13]</sup></li>
 <p>Data set: DUDE</p>
 <p>Metric: ROC AUC and BEDROC</p>
-<p>Software: USR, ROCS and VAMS</p>  
+<p>Software: USR, ROCS and VAMS</p>
+
+<li>Puertas-Martín2019.csv<sup>[14]</sup></li>
+<p>Data set: DUDE</p>
+<p>Metric: ROC AUC</p>
+<p>Software: OptiPharm and WEGA</p> 
+  
 </ol>
 
 <h2>Tools</h2>
@@ -86,4 +92,7 @@ CHEMBL383300 (3)
 <li>Stein, R. M.; Yang, Y.; Balius, T. E.; O’Meara, M. J.; Lyu, J.; Young, J.; Tang, K.; Shoichet, B. K.; Irwin, J. J. Property-Unmatched Decoys in Docking Benchmarks. J. Chem. Inf. Model. 2021, 61 (2), 699–714. https://doi.org/10.1021/acs.jcim.0c00598.</li>
 <li>Cleves, A. E.; Johnson, S. R.; Jain, A. N. Electrostatic-Field and Surface-Shape Similarity for Virtual Screening and Pose Prediction. J. Comput. Aided. Mol. Des. 2019, 33 (10), 865–886. https://doi.org/10.1007/s10822-019-00236-6.</li>
 <li>Koes, D. R.; Camacho, C. J. Shape-Based Virtual Screening with Volumetric Aligned Molecular Shapes. J. Comput. Chem. 2014, 35 (25), 1824–1834. https://doi.org/10.1002/jcc.23690.</li>
+
+<li>Puertas-Martín, S.; Redondo, J. L.; Ortigosa, P. M.; Pérez-Sánchez, H. OptiPharm: An Evolutionary Algorithm to Compare Shape Similarity. Sci. Rep. 2019, 9 (1), 1–24. https://doi.org/10.1038/s41598-018-37908-6.</li>
+
 </ol>
