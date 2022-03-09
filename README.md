@@ -79,20 +79,33 @@ CHEMBL383300 (3)
 <h2>Reference</h2>
 <ol>
 <li>Chaput, L.; Martinez-Sanz, J.; Saettel, N.; Mouawad, L. Benchmark of Four Popular Virtual Screening Programs: Construction of the Active/Decoy Dataset Remains a Major Determinant of Measured Performance. J. Cheminform. 2016, 8 (1), 56. https://doi.org/10.1186/s13321-016-0167-x.</li>
+  
 <li>Cleves, A. E.; Jain, A. N. Structure- and Ligand-Based Virtual Screening on DUD-E + : Performance Dependence on Approximations to the Binding Pocket. J. Chem. Inf. Model. 2020, 60 (9), 4296–4310. https://doi.org/10.1021/acs.jcim.0c00115.</li>
 <p>Download: https://www.jainlab.org/downloads/</p>
+  
 <li>Eberhardt, J.; Santos-Martins, D.; Tillack, A. F.; Forli, S. AutoDock Vina 1.2.0: New Docking Methods, Expanded Force Field, and Python Bindings. J. Chem. Inf. Model. 2021, acs.jcim.1c00203. https://doi.org/10.1021/acs.jcim.1c00203.</li>
+  
 <li>Mysinger, M. M.; Carchia, M.; Irwin, J. J.; Shoichet, B. K. Directory of Useful Decoys, Enhanced (DUD-E): Better Ligands and Decoys for Better Benchmarking. J. Med. Chem. 2012, 55 (14), 6582–6594. https://doi.org/10.1021/jm300687e.</li>
+  
 <li>Giangreco, I.; Mukhopadhyay, A.; C. Cole, J. Validation of a Field-Based Ligand Screener Using a Novel Benchmarking Data Set for Assessing 3D-Based Virtual Screening Methods. J. Chem. Inf. Model. 2021, 61 (12), 5841–5852. https://doi.org/10.1021/acs.jcim.1c00866.</li>
+  
 <li>Wang, D.; Cui, C.; Ding, X.; Xiong, Z.; Zheng, M.; Luo, X.; Jiang, H.; Chen, K. Improving the Virtual Screening Ability of Target-Specific Scoring Functions Using Deep Learning Methods. 2019, 10 (August), 1–11. https://doi.org/10.3389/fphar.2019.00924.</li>
-<li>Imrie, F.; Bradley, A. R.; Van Der Schaar, M.; Deane, C. M. Protein Family-Specific Models Using Deep Neural Networks and Transfer Learning Improve Virtual Screening and Highlight the Need for More Data. J. Chem. Inf. Model. 2018, 58 (11), 2319–2330. https://doi.org/10.1021/acs.jcim.8b00350.</li>  
+  
+<li>Imrie, F.; Bradley, A. R.; Van Der Schaar, M.; Deane, C. M. Protein Family-Specific Models Using Deep Neural Networks and Transfer Learning Improve Virtual Screening and Highlight the Need for More Data. J. Chem. Inf. Model. 2018, 58 (11), 2319–2330. https://doi.org/10.1021/acs.jcim.8b00350.</li>
+  
 <li>Scoring - Calculate rank statistics. http://www.rdkit.org/docs/source/rdkit.ML.Scoring.Scoring.html</li>
+  
 <li>Lätti, S.; Niinivehmas, S.; Pentikäinen, O. T. Rocker: Open Source, Easy-to-Use Tool for AUC and Enrichment Calculations and ROC Visualization. J. Cheminform. 2016, 8 (1), 45. https://doi.org/10.1186/s13321-016-0158-y.</li>
+
 <li>Jiang, S.; Feher, M.; Williams, C.; Cole, B.; Shaw, D. E. AutoPH4: An Automated Method for Generating Pharmacophore Models from Protein Binding Pockets. J. Chem. Inf. Model. 2020, 60 (9), 4326–4338. https://doi.org/10.1021/acs.jcim.0c00121.</li>
+
 <li>Stein, R. M.; Yang, Y.; Balius, T. E.; O’Meara, M. J.; Lyu, J.; Young, J.; Tang, K.; Shoichet, B. K.; Irwin, J. J. Property-Unmatched Decoys in Docking Benchmarks. J. Chem. Inf. Model. 2021, 61 (2), 699–714. https://doi.org/10.1021/acs.jcim.0c00598.</li>
+ 
 <li>Cleves, A. E.; Johnson, S. R.; Jain, A. N. Electrostatic-Field and Surface-Shape Similarity for Virtual Screening and Pose Prediction. J. Comput. Aided. Mol. Des. 2019, 33 (10), 865–886. https://doi.org/10.1007/s10822-019-00236-6.</li>
+
 <li>Koes, D. R.; Camacho, C. J. Shape-Based Virtual Screening with Volumetric Aligned Molecular Shapes. J. Comput. Chem. 2014, 35 (25), 1824–1834. https://doi.org/10.1002/jcc.23690.</li>
 
 <li>Puertas-Martín, S.; Redondo, J. L.; Ortigosa, P. M.; Pérez-Sánchez, H. OptiPharm: An Evolutionary Algorithm to Compare Shape Similarity. Sci. Rep. 2019, 9 (1), 1–24. https://doi.org/10.1038/s41598-018-37908-6.</li>
 
+<li>Shen, C.; Hu, Y.; Wang, Z.; Zhang, X.; Pang, J.; Wang, G.; Zhong, H.; Xu, L.; Cao, D.; Hou, T. Beware of the Generic Machine Learning-Based Scoring Functions in Structure-Based Virtual Screening. 2020, 00 (April), 1–22. https://doi.org/10.1093/bib/bbaa070.</li>
 </ol>
