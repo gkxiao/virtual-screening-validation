@@ -39,8 +39,12 @@
 <li>Puertas-Martín2019.csv<sup>[14]</sup></li>
 <p>Data set: DUDE</p>
 <p>Metric: ROC AUC</p>
-<p>Software: OptiPharm and WEGA</p> 
-  
+<p>Software: OptiPharm and WEGA</p>
+
+<li>Shen2020<sup>[15]</sup></li>
+<p>Data set: DUDE, DEKOIS2.0, dataset III</p>
+<p>Metric: ROC AUC, logAUC, BEDROC(alpha=80.5), EF at 0.1%，0.5%, 1%, 5%</p>
+<p>Software: GLIDE, GOLD, LeDock</p> 
 </ol>
 
 <h2>Tools</h2>
