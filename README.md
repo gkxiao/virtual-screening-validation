@@ -49,6 +49,17 @@
 
 <h2>Tools</h2>
 <ol>
+  <li>metrics.py</li>
+  <p>metrics: ROC AUC, BEDAUC, enrichment_factor(EF) and logAUC</p>
+  <p>metrics.py can be available from <a href="https://github.com/oddt/oddt">oddt</a>.</p>
+
+  <li>ROCKER<sup>[9]</sup></li>
+     <p>ROCKER is a visualization tool for ROC and semi-log ROC curve</p>
+     <p>ROCKER can be available from: http://www.medchem.fi/rocker</p>
+  
+  <li>bootstrap_tldr.py<sup>[11]</sup></li>
+      <p>bootstrap_tldr.py is a visualization tool for ROC and semi-log ROC curve</p>
+      <p>bootstrap_tldr.py can be available from: https://dudez.docking.org</p>
 <li>Remove the brackets in the title tag</li>
 <p>The duplicated molecules has brackets in the SDF title tag. We need to remove it before grouping molecules with aggregation funtion.</p>
 <pre line="1" lang="python">
@@ -71,13 +82,6 @@ CHEMBL383300 (3)
 <pre line="1" lang="python">
 >extract_sdfscore2csv.py actives_final_dock_label.sdf  actives_score.csv Chemgauss4 min
 </pre>
-<li>metrics.py: ROC AUC, BEDAUC, enrichment_factor(EF) and logAUC</li>
-<p>metrics.py stolen from <a href="https://github.com/oddt/oddt">oddt</a>.</p>
-
-<li>ROCKER: ROC and semi-log ROC curve visualization<sup>[9]</sup></li>
-
-<li>bootstrap_tldr.py: ROC and semi-log ROC curve visualization<sup>[11]</sup></li>
-
 </ol>
 
 <h2>Reference</h2>
