@@ -60,20 +60,7 @@
   <li>bootstrap_tldr.py<sup>[11]</sup></li>
       <p>bootstrap_tldr.py is a visualization tool for ROC and semi-log ROC curve</p>
       <p>bootstrap_tldr.py can be available from: https://dudez.docking.org</p>
-<li>Remove the brackets in the title tag</li>
-<p>The duplicated molecules has brackets in the SDF title tag. We need to remove it before grouping molecules with aggregation funtion.</p>
-<pre line="1" lang="python">
-CHEMBL162 (1)
-CHEMBL471526 (1)
-CHEMBL452341 (1)
-CHEMBL383300 (1)
-CHEMBL383300 (2)
-CHEMBL383300 (3)
-</pre>
-<p>sed command is good to do it:</p>
-<pre line="1" lang="python">
->sed s/\ \([0-9]*\)//g foo.sdf >> oof.sdf
-</pre>
+ 
 <li>Add Title and label tags to the SDF file.</li>
 <pre line="1" lang="python">
 >add_label_to_sdf.py actives_final_dock.sdf actives_final_dock_label.sdf active
