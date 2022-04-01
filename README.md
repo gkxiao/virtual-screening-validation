@@ -29,7 +29,7 @@
 <li>Cleves2019.csv<sup>[12]</sup></li>
 <p>Data set: DUDE</p>
 <p>Metric: ROC AUC</p>
-<p>Software: Surflex eSim</p>  
+<p>Software: Surflex eSim(-pscreen), maximum AUC over the alternate methods</p>  
 
 <li>Koes2014.csv<sup>[13]</sup></li>
 <p>Data set: DUDE</p>
