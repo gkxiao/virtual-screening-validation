@@ -41,10 +41,16 @@
 <p>Metric: ROC AUC</p>
 <p>Software: OptiPharm and WEGA</p>
 
-<li>Shen2020<sup>[15]</sup></li>
+<li>Shen2020.xlsx<sup>[15]</sup></li>
 <p>Data set: DUDE, DEKOIS2.0, dataset III</p>
 <p>Metric: ROC AUC, logAUC, BEDROC(alpha=80.5), EF at 0.1%，0.5%, 1%, 5%</p>
-<p>Software: GLIDE, GOLD, LeDock</p> 
+<p>Software: GLIDE, GOLD, LeDock</p>
+
+<li>Jiang2021.xlsx<sup>[16]</sup></li>
+<p>Data set: DUD-E, LIT-PCBA</p>
+<p>Metric: ROC AUC, EF at 1%, 5%, 10%</p>
+<p>Software: ROCS、Phase Shape、SHAFTS、WEGA、ShaEP、Shape-it、Align-it、LIGSIFT、LS-align</p> 
+
 </ol>
 
 <h2>Tools</h2>
@@ -103,4 +109,6 @@
 <li>Puertas-Martín, S.; Redondo, J. L.; Ortigosa, P. M.; Pérez-Sánchez, H. OptiPharm: An Evolutionary Algorithm to Compare Shape Similarity. Sci. Rep. 2019, 9 (1), 1–24. https://doi.org/10.1038/s41598-018-37908-6.</li>
 
 <li>Shen, C.; Hu, Y.; Wang, Z.; Zhang, X.; Pang, J.; Wang, G.; Zhong, H.; Xu, L.; Cao, D.; Hou, T. Beware of the Generic Machine Learning-Based Scoring Functions in Structure-Based Virtual Screening. 2020, 00 (April), 1–22. https://doi.org/10.1093/bib/bbaa070.</li>
+
+<li>Jiang, Z.; Xu, J.; Yan, A.; Wang, L. A Comprehensive Comparative Assessment of 3D Molecular Similarity Tools in Ligand-Based Virtual Screening. Brief. Bioinform. 2021, 22 (6), 1–17. https://doi.org/10.1093/bib/bbab231.</li>
 </ol>
