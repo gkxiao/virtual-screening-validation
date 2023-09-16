@@ -51,6 +51,11 @@
 <p>Metric: ROC AUC, EF at 1%, 5%, 10%</p>
 <p>Software: ROCS、Phase Shape、SHAFTS、WEGA、ShaEP、Shape-it、Align-it、LIGSIFT、LS-align</p> 
 
+<li>Jocelyn2021.xlsx<sup>[17]</sup></li>
+<p>Data set: DUD-E, LIT-PCBA</p>
+<p>Metric: ROC AUC, EF at 1%</p>
+<p>Software: GNINA 1.0 with scoring function: Affinity,Pose,Affinity-dense,Pose-dense,Affinity-General,Pose-General,Vina,Vinardo,RFScore-VS,RFScore-4</p>
+</p> 
 </ol>
 
 <h2>Tools</h2>
@@ -66,15 +71,6 @@
   <li>bootstrap_tldr.py<sup>[11]</sup></li>
       <p>bootstrap_tldr.py is a visualization tool for ROC and semi-log ROC curve</p>
       <p>bootstrap_tldr.py can be available from: https://dudez.docking.org</p>
- 
-<li>Add Title and label tags to the SDF file.</li>
-<pre line="1" lang="python">
->add_label_to_sdf.py actives_final_dock.sdf actives_final_dock_label.sdf active
-</pre>
-<li>Group together of molecules (differnet protonation states,tautomers) with the same title stored in SDF, based on a aggregation functions such as max and min.</li>
-<pre line="1" lang="python">
->extract_sdfscore2csv.py actives_final_dock_label.sdf  actives_score.csv Chemgauss4 min
-</pre>
 </ol>
 
 <h2>Reference</h2>
@@ -111,4 +107,6 @@
 <li>Shen, C.; Hu, Y.; Wang, Z.; Zhang, X.; Pang, J.; Wang, G.; Zhong, H.; Xu, L.; Cao, D.; Hou, T. Beware of the Generic Machine Learning-Based Scoring Functions in Structure-Based Virtual Screening. 2020, 00 (April), 1–22. https://doi.org/10.1093/bib/bbaa070.</li>
 
 <li>Jiang, Z.; Xu, J.; Yan, A.; Wang, L. A Comprehensive Comparative Assessment of 3D Molecular Similarity Tools in Ligand-Based Virtual Screening. Brief. Bioinform. 2021, 22 (6), 1–17. https://doi.org/10.1093/bib/bbab231.</li>
+
+<li>Sunseri, J.; Koes, D.R. Virtual Screening with Gnina 1.0. Molecules 2021, 26, 7369. https://doi.org/10.3390/molecules26237369</li>
 </ol>
